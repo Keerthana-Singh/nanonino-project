@@ -1,0 +1,17 @@
+.row1{
+    margin-left: 0!important;
+    margin-right: 0!important;
+}
+.colorr{
+    color: #8aac15;
+}
+.bor{
+    border-bottom: 1px solid rgb(200, 197, 197);
+}
+.stri{
+    text-decoration: line-through;
+}
+.strio{
+    color: rgb(98, 20, 20);
+
+}

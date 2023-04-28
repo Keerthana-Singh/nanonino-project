@@ -1,0 +1,24 @@
+.board{
+    border:1px solid black;
+    border-radius: 2px;
+}
+.board1{
+   border: none;
+    border-right: 1px solid black;
+    background-color: white;
+}
+.boderr{
+    color: white;
+    background-color: #8aac15;
+    background-image: url(./image.png);
+    background-position-x: 100%;
+    background-position-y: 50%;
+    background-size: initial;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+
+}
+
